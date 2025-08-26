@@ -1,1 +1,1 @@
-# chat.whatsapp
+# chat.whatsapp.com
